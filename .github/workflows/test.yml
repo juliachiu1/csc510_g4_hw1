@@ -29,4 +29,4 @@ jobs:
       
       # Runs a single command using the runners shell
       - name: Run a Python Script
-        run: pytest .github/workflows/test.py
+        run: pytest test/test.py
