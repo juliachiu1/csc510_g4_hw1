@@ -3,7 +3,7 @@
 alt="License" src="https://img.shields.io/badge/license-MIT-green"></a>
 
 ## Introduction
-This is a simple project for demoing how to create a "good" repo.
+*This is a simple project for demoing how to create a "good" repo.*
 
 ## Repo Structure
 
