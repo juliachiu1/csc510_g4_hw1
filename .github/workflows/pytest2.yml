@@ -29,4 +29,4 @@ jobs:
       
       # Runs a single command using the runners shell
       - name: Run a Python Script
-        run: pytest code/__init__.py
+        run: pytest code/test2.py
