@@ -1,4 +1,4 @@
-# Thank you for contributing
+# 👍🏼Thank you for contributing👍🏼
 ![image](https://geolatinas.weebly.com/uploads/1/2/4/6/124680710/character-couple-solving-puzzle-pieces-illustration-53876-32627_orig.jpg)
 
 Below are the guidelines for contributing to this repo.
