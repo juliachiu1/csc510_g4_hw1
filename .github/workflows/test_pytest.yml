@@ -24,4 +24,4 @@ jobs:
         run: |
           pip install pytest
           pip install pytest-cov
-          pytest /home/runner/work/csc510_g4_hw1/code/__init__.py --doctest-modules --junitxml=junit/test-results.xml --cov=com --cov-report=xml --cov-report=html
+          pytest code/__init__.py --doctest-modules --junitxml=junit/test-results.xml --cov=com --cov-report=xml --cov-report=html
