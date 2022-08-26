@@ -1,4 +1,4 @@
-name: Python_package
+name: test_pytest
 
 on: [push]
 
