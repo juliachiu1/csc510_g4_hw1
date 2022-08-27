@@ -1,11 +1,1 @@
-Django~=2.2.4
-djangorestframework
-python-interface
-paramiko
-celery
-redis
-pandas
-python-dateutil
-sklearn
-xgboost
-matplotlib
+pytest
