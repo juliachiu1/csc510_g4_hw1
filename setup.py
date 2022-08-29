@@ -3,7 +3,7 @@ from setuptools import setup
 
 
 setup(
-    name='homework_group4',
+    name='csc510_g4_hw1',
     version='1.0',
     description='Testing functions for Homework 1',
     author='Ching-Lun Chiu, Hsueh-Yang Yu, Po-Hsun Lin, Li-Ling Ku, Chen-Hsuan Chiang',
