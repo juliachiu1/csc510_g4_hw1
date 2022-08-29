@@ -1,5 +1,5 @@
 # Setup python file
-from setupstools import setup
+from setuptools import setup
 
 
 setup(
