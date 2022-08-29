@@ -9,7 +9,9 @@ This repo is the demonstration of the course CS510's homework 1.
 ## Repo Structure
 
 ## Installation
-
+```
+pip install git+http://github.com/juliachiu1/csc510_g4_hw1.git
+```
 ## Requirements
 
 ## Reference
