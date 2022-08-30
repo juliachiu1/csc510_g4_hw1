@@ -32,3 +32,6 @@ pip install pytest
 This Project is under the MIT License
 
 ## Reference
+[Automated Testing](https://coderefinery.github.io/testing/continuous-integration/)
+
+[Run Python in GitHub Actions](https://www.youtube.com/watch?v=o2o_xF6NhD0)
