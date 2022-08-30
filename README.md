@@ -18,10 +18,14 @@ pip install pytest
 ```
 
 ## Project Team Members
-[Chiu, Ching-Lun](https://github.com/juliachiu1).
-[Yu, Hsueh-Yang](https://github.com/Hsueh-YANG).
-[Lin, Po-Hsun](https://github.com/123standup).
-[Ku, Li-Ling](https://github.com/Chloe-Ku).
-[Chiang, Chen Hsuan](https://github.com/jackson910210).
+[Chiu, Ching-Lun](https://github.com/juliachiu1)
+
+[Yu, Hsueh-Yang](https://github.com/Hsueh-YANG)
+
+[Lin, Po-Hsun](https://github.com/123standup)
+
+[Ku, Li-Ling](https://github.com/Chloe-Ku)
+
+[Chiang, Chen Hsuan](https://github.com/jackson910210)
 
 ## Reference
