@@ -13,6 +13,8 @@ This repo is the demonstration of the course CS510's homework 1.
 pip install git+http://github.com/juliachiu1/csc510_g4_hw1.git
 ```
 ## Requirements
+This project depends on pytest.
+
 ```
 pip install pytest
 ```
