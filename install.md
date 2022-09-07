@@ -9,3 +9,15 @@
 2. Locate to the folder where you store the project
 
 3. run!
+
+
+## Installation
+```
+pip install git+http://github.com/juliachiu1/csc510_g4_hw1.git
+```
+## Requirements
+This project depends on pytest.
+
+```
+pip install pytest
+```
